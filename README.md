@@ -1,1 +1,1 @@
-# EXAMEN-LUIS-GARZA
+# En estes repositorio estaremos presentando con orgullo nuestro examen de la clase de programacion I, en la descripción de este readme en el cual detallo los objetos creados con sus respectivos atributos y metodos.
